@@ -1,0 +1,75 @@
+{
+    "class_id": "com-snaplogic-snaps-google-spreadsheet-googlespreadsheetoauth2account",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "spreadsheet"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "access_token": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "ak/3dTWcMztsDKDncoak3A==",
+                "sym_key": "ItcToYNbXnbuvKT5luuFevyBfeBL0cj7cUXTs7nIiVHRWgmYGV0IEGY68tKETMqPTFYN4dHX+uMcox3LvAUP6YCCArojYSxqgDw+jAC4l3ArEc4Yfk5MLRhrhOz3vil13Q/DIBR+golTJtxYvzfhqEeyn3XCLF6mgltMRnRYvZVxDSjYdrqL+4iMoYbqZG7CxXhEjluz+R6NY/8LrzszwTfUoZ1LRrcTGL3qImv4xhVMMfItFRT35rhu5gVywebjAlak848Ub/fRjKL7F7uqUCgmCD1ziM0dWxNCSZGJ/s4Zw0VmZN3lcii3E5poIaN5SU5Xl2hRRQ/5JDcUnutpDw==",
+                "value": "s0WjtTaP3nnt5PIwzyomnljLzPiCQXENnx3cLSquylZlh4NqI+6hUEJFo/xAzDWfST3nSE5x/ehwDy+ze9vQBuwAF5SE36lLk20t0T6LoIei8t8rOhxynjLr8QsFSjqL34Ff8LlrtOpRiRWVNfK0nSrCU0dHFm0TEvFyIEq+ka3sEC2nPH0fduQ4f4xnPp1W"
+            },
+            "access_token_expiration": {
+                "value": "1542202079"
+            },
+            "auth_endpoint": {
+                "value": "https://accounts.google.com/o/oauth2/auth"
+            },
+            "auth_endpoint_config": {
+                "value": {
+                    "access_type": {
+                        "value": "offline"
+                    },
+                    "approval_prompt": {
+                        "value": "force"
+                    },
+                    "scope": {
+                        "value": "https://spreadsheets.google.com/feeds https://www.googleapis.com/auth/drive"
+                    }
+                }
+            },
+            "authorize": {
+                "value": null
+            },
+            "autoRefreshToken": {
+                "value": false
+            },
+            "client_id": {
+                "value": "641557182446-rgnujh4f1nm1pvdd1rsqum7ehep574lf.apps.googleusercontent.com"
+            },
+            "client_secret": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "syAinONI47CQcrT4CFzEig==",
+                "sym_key": "tNFgrbUjiz0VcXgZlZFrPiFssv2/hah2eaJJtAYpKoy5B3Zy0eHs+rGII4Cvhojs286B+NSoZ+prhXrPT9S6QBnX5ifsC4IEiucna8jRTry6hjUTGK9T+LNepOj138IZ+3VyKH9e5Jo4qeyUfDDFjs3uWLZ4BV3KknMmtdLAaY3WpofR99phDAqkCXXD2YSTpIvao+9tytt48vZ3uKQoOwZ+ZUQfUhssMrfxcCGXo+YD8SOPyt6UqWDQWVqrYNzUiZ4HAcrBRmK+AetT2T6S2qNtM/4zJEo9SVJkyub0QGOY2cg6I0eAAyTm2h9xEkwcoS9xpxyQaMgKXkQwM9XdNQ==",
+                "value": "M5/iJODKh6enfYNXMO5fgStzs0E/gyCsVvmkYPMDomg="
+            },
+            "refresh": {
+                "value": null
+            },
+            "refresh_token": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "EFDD6WbcabMSQEQvE9552Q==",
+                "sym_key": "FXAHyZWfZIfaumnzk1dH7MRseQze1i+JWkd7xggoH8eLGpDZrXGHiV+AE/YI5le9s4/DdN6SG8hrs6BvGrrLPjxffANBQDlOOacSHblSurxBrFKfPOuYTlQuATFuosAk0+oFvKaZORgR/CkavaFjpOIxchvH0DyNoxTboKFtRz2UOF06mt3F+ijLt4DT1sMMphDuMRlkNyJbqGqtwJMmUdw+pxQaDVpVbEu8uNNjF9E3HoCJDEvg5L5QlgaahHtsgaL/GuLaaCSPP7M1C3elaidq7P8Zappk+ZIOMl9rlJcfCLIsGJguzOECD0TKKYzBHQlaRrQbPum0+yrSbztjbw==",
+                "value": "Hwho4ZOaGy/dgZly2HcM9LNAOa+/WmNjpWrQTJXyuqo50sLqkPTaZySlPJOp4WC+"
+            },
+            "token_endpoint": {
+                "value": "https://www.googleapis.com/oauth2/v3/token"
+            }
+        },
+        "view_serial": 100
+    }
+}

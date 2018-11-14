@@ -1,0 +1,82 @@
+{
+    "class_id": "com-snaplogic-snaps-google-googleanalyticsoauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "GoogleSpreadSheet"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "access_token": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "YwZhpkh96xdwkTAwBB5wrQ==",
+                "sym_key": "Fbab8Ctas/Ff3aR26BkS15k/bWlpaPuyq0rDuERFh8Q7B1dEdT3YT117LBQqnrfeLfGEgjoUaGRBF3HPC+6yaLTdup1rU5J1Rkt4uvKuS0ZL6p9tgIdG7nq0z4vKim8yvotSacR2mdbaY9uOew1JgVGXz7LrvwiiRg5aJiHicCLrtoFNjMEW/X73l/mLGDYLKzSBaBL8I4O7cITjmLSamv+ZtDVcM2fBcuevtxnEoKJHMuoBaECfr8jckphVRtAZvTItXbHD4a0ExqBJV8vp1/4r5bnGK1pHWlJ5RwazSOTMiiPq9vrt3Os/8I55MpUHqZnGpxGMCZwBYmmnv3dXQQ==",
+                "value": "tLL0XVzw7W3c6ILWLP0MLrAyCi/rY5L6arg3GsLCiFtducGmiDBbtFSK3UITCBROQGKkrD/e8FC/DJK0C+tvJIrQ3A4ar499qNrmNvWMuVHxhnMUgPbidlzJsWOCb12mRpsbMSSUSjTcDyG+hvzG/M93316CS47EuumvLhOyPXUVjF7CE25XjhCP7YeI1MFR"
+            },
+            "access_token_expiration": {
+                "value": "1542202013"
+            },
+            "auth_endpoint": {
+                "value": "https://accounts.google.com/o/oauth2/auth"
+            },
+            "auth_endpoint_config": {
+                "value": {
+                    "access_type": {
+                        "value": "offline"
+                    },
+                    "approval_prompt": {
+                        "value": "force"
+                    },
+                    "scope": {
+                        "value": "https://www.googleapis.com/auth/analytics.readonly"
+                    }
+                }
+            },
+            "authorize": {
+                "value": null
+            },
+            "autoRefreshToken": {
+                "value": true
+            },
+            "client_id": {
+                "value": "321554796571-p0hldds4k2pidip6sbbkm85iob89pck8.apps.googleusercontent.com"
+            },
+            "client_secret": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "l/qNeQr71ezKGPfcVAO0XA==",
+                "sym_key": "JceA2jaz28a4oZYlZ6WQKxZzG+yT2hiEswTSEchQyPllNh6egLaPdYYKlJ8f1fZSBHr3r1Nxb+mEAPOeSg/nuCe95ftyM7hmGAELZbq80+ROrFy3QOZpnpHJFLUMPd/AzuoNa+eW15/O1D/9qXoIN6aIjtZCuC+i8G5AhIFrAibbAhpSnbCeWvA40B88BdPsWM4Bn0lGO9w1JQLw0KtrAj/HZDg+0iTyeGqqDd5Yr8agB41RJ4iv6hkC+ZYBH/xkbR8bOsxnov/YSe7m4+qSQiChN6SIITM4SKPVaewC+fVE0Y8JOEDQT5CAJslXe2+YD9CDIqypZRle01vnX6byCQ==",
+                "value": "nKx06izg5/Qm0IJHo02G7539VmfyDNNCDUFaYW2B+uA="
+            },
+            "refresh": {
+                "value": null
+            },
+            "refresh_token": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "K4IMOL4NtACvBl5/btvnpw==",
+                "sym_key": "sp/mEtrJnGmzcbGgHFy0Jf7znSujpiGN74pngFYrz6YBCJmmhrP8yJykj1+tDXhRO8epHWV4jXN4PLC2b+jL1vX5guQ2owLudQIWUf3RsC5QLXt7qpVNl8n+1iOROkUH74GaEwvO8kU2Ki4PXBSjLtG1M5VfgNvI4D6wtWH6/ZD94Q0Np4KR7VawSRQDp31NSo09plYLS1jmQ0lJdTczzGyX51WKtjU+UWJD/Xmyw5wLhB09hyUJ5pakNfV08pf6LT0sboRhohcMOpdxj3OOjedONgN/n4aKiRB/t4Z8YfUkdz5NsNPhfbsjqLGv/6EdwyLDabxiP1PuOHk7qSZLIQ==",
+                "value": "V5NvxH6tjhR1n5t1TDj9tJ9etu9+r4RaHRdJv33bcDxsmTyme1iogOZIDK9Es9LkYR1BSLvBepBs8rjfoXMY1AwjR7QyeL/Ljtd+s6XT8uY="
+            },
+            "token_endpoint": {
+                "value": "https://accounts.google.com/o/oauth2/token"
+            },
+            "token_endpoint_config": {
+                "value": {
+                    "token_transport": {
+                        "value": "headers"
+                    }
+                }
+            }
+        },
+        "view_serial": 100
+    }
+}
