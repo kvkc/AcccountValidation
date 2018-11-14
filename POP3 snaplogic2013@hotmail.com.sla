@@ -1,0 +1,45 @@
+{
+    "class_id": "com-snaplogic-snaps-email-pop3account",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "POP3 snaplogic2013@hotmail.com"
+            }
+        },
+        "settings": {
+            "connectionTimeout": {
+                "value": 60000
+            },
+            "emailId": {
+                "value": "snaplogic2013@hotmail.com"
+            },
+            "password": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "JksAdTKT9LMjvVcV+xWN1A==",
+                "sym_key": "Mpg2gZTNHdh2+s+okCDEdRxKPrpR640FiLlPQuHQ6L7IgppDfAxq9ZdjY71cNPygryf14aHzWjN7wDe9XpPE0MhEPt8zcBOaZJVJ+oz5KN+c3EA82R1Lv/SWMvEAPmBQrsJsWCVbpsFHlwH6QZF4liO3VuYDtRv+4tkxO/rQdacbjUIADtP3y9O3qaIVnhqDJeZEBdkm8snuEXTWvIezVZ2iDY4N5DxHZbT2DFGAFGb7cmbD29j/NbhujpUL4BNok81bOO8YOVT57/IK3/8ROLPl8NVNR2DUf/ZAkTwVYz89T3S+2Z1zyoGyd7++tuTwYkrzjzZepyH+ilBtwgj0RQ==",
+                "value": "Tg4jHtKetftPjtbmfLvD8Q=="
+            },
+            "port": {
+                "value": "995"
+            },
+            "readTimeout": {
+                "value": 60000
+            },
+            "secureConnection": {
+                "value": "SSL"
+            },
+            "serverDomain": {
+                "value": "pop-mail.outlook.com"
+            },
+            "writeTimeout": {
+                "value": 60000
+            }
+        },
+        "view_serial": 100
+    }
+}

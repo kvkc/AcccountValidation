@@ -1,0 +1,60 @@
+{
+    "class_id": "com-snaplogic-snaps-splunk-splunkbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Splunk Light"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "keyAlias": {
+                "value": null
+            },
+            "keyStoreURL": {
+                "expression": false,
+                "value": null
+            },
+            "keyTrustPassword": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "2yZQCSEgj+y5uJO9MQse8w==",
+                "sym_key": "cCVgC6XMHaBFgPiGWuBwtAgldNp+/338txC4VAVIbF8AoVBIUCnjuPEPEIqm8uRtUZzYQRX/ZbRCLG7moU+5U+AqQvaOnKVxw6DUFHC+hy/Ep3Nr3399uQPVzBxkgpqDxpGiCJwp4DzOdpNWC5hAJe4AxsOWBrDWDAvHr8PKyeMuXIOPkHffr48oGIc0nUPj8QMYndk+ha1YwUWhYtkQxshpK2tcI9M1xPani2RqsO6THCwtgGI0l4Fu/1UxL9JoojEoyT8B7AJlfpAbmL/uI4chx9ZU73QisWOzDUFZmtHlfgutsg8LHEGNCPhNUr5Y7r9wEsXIYTGlqToGWGWHjw==",
+                "value": "AmS6zZdx2u9yjPvSY3TKdg=="
+            },
+            "onPremises": {
+                "value": true
+            },
+            "password": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "gM0Vaxvl6Z3BXVwjGOf1Tg==",
+                "sym_key": "ZrAJ6QD0eX96p39LPez2HptWJdeDA0QBbi/Anxg0wKNmGRFbOItHFJqktUDV0uS3I5g76QniyUxfeDzfG9czbH7Yp5m4iDRDYyFNi496+PQeWMvzK0uTptuXLqvvk7Tw+MzNGL1xumbr5FaEVVEOyeFqNkVBlbGqLY4fBN5btbU11JTbZJ6hbPBqTxP5Twg+qHaMvGTGYrSob4ZR0eoSXctDGQ/imYahdC1fSIx1/M4IzSL94r0tbGGCcdoq7bsmMHFSUFNI3KYrzEq/4D7n6vweKRd14PzVvnii2BPO9QcpwyiqEPILy3K9FDDfq3hUHIb23FyOJkYtTkc1P4X37Q==",
+                "value": "O4fHjntkZk9LCSv6NbhncwV9/808L8CBGGJqlgS4hos="
+            },
+            "serviceUrl": {
+                "value": "https://splunklight.clouddev.snaplogic.com:8089/"
+            },
+            "sslTlsMinVersion": {
+                "value": "TLSv1.2"
+            },
+            "trustAllCerts": {
+                "value": true
+            },
+            "trustStoreURL": {
+                "expression": false,
+                "value": null
+            },
+            "username": {
+                "value": "admin"
+            }
+        },
+        "view_serial": 100
+    }
+}

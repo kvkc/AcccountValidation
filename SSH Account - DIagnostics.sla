@@ -1,0 +1,33 @@
+{
+    "class_id": "com-snaplogic-snaps-binary-binarysshaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "SSH Account - DIagnostics"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "passPhrase": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "v34zJP84NeAlGI2KSztoVg==",
+                "sym_key": "HOagenpU0VMTObRMBn3IsPwoNTh8QZamNafglls1up4vdRPhM60KdT3frNakJgALu5RhQmlsuf4CnZy72n5H6pqcmOedF1Gl6AzdQtmQ5NPbFac2TM0tW3iHyPLtNKbRz+xopyjGUe6IwNK5UDQD/OvjDN0dyyqb9U8i8ezLaY6/FY1si8hKVJOe6j4hHE3MSWciXOC1R1XZt3Sb4/zuijqd/E4brVo2Xe+MopVONYJ6nhO7pFavmHEQi4Ua/yHqDij3TJhpTcPPdmj3NluwL8BDOHCqW+q6KfdVvj3h2nq/4VCplQMns/utDSgopXbH/WBAra4pDZuobKdsxYtsRA==",
+                "value": "C8g4KVtF8yv5WN8xSaGmoA=="
+            },
+            "privateKey": {
+                "value": "-----BEGIN RSA PRIVATE KEY-----\nMIIEoQIBAAKCAQEAnTFVYHy6A3YeJbrJ7MY/uiRZViiTLBf8AGo5WDCWLkmkwP2h\nl/jFBAwZLR4k6Tz6wOLuo1w+y6+DyCgNrgiJdpByUiNTsmwHDsz6pzY7kzFTST3T\n70vDyzFiJXW9v+2b6a3Mr7MaQsjI6A90uJStGS40+ZdjJYLIZfDqgm1+J/xLEwTm\nFh3+vslXax2e+ydFHU5lIjk4orSl9VW/hMNrb+/Npsoe9c+7H+6wC+zBvvKR0PGf\nFyFApavh/9vqkdb29oSCXlIvm4J6R0Z406wZf5axxIg/hJCFX3ZrAP5pvjWDQhWo\nLbsR/9kaKhziLb+BZm0puGGNlLk8/BdTqxjNXwIBIwKCAQANeUHVEgFQwPtFEAKt\n5RtnufkHYpBFm6fix0a+apCHn+mM4ooxmPrxt+TmnC8MrXSUMLVedZ77hBKcILC3\nJU2ccsf4aW2S81EP5a8VpZAT7kj3pja8vVns2Fjeo7EttUfg1GIAbm/3GIY/xs99\niRYmutFXONyc0LIXXcr1PJXI6ZrnK2JFZahd8ie0xaO3IZb60RBslS7nbe4TIyt/\nEacKwPGtZE1CQNtNRbWPkz4AqNxHR389f3wT/QZC3MVRPiqyaDfDDehmkld6pM+D\niLMQz9x8SW4lPJZo6QAOeKAObTh0eI8mJxfkaCXOsLam78NK2If0yup2VrlBMpgY\nLDdrAoGBAMkPTWRTTmIldbAB76Yz5NdtA4LuEeSEEdLpkUZo0tgRyd9fTlQxlqHt\nxjH5jwaZUNMXA1NbaTEwtuhdYcwVyNO2iC1pqr2n2kMkp+Mg5w2b09m57OundIKS\n6t/U/MK3c9nfs13BGnlsBTREOHluSDIzlLmJPtVguL624e0g2kWRAoGBAMglaAdD\n2EWmn9gsLC1uuoxCGSKWsDDn9aQsf32mzUvgsEALPvAUmcVXUI0x/T0d77TPrCnu\nPhKLwltBFSBy44Zz5x+7r9qcUjqLxnYJijgfnyELQqQqrn1Z7TUt17EJHMFo48Ra\nLdcrFNd6gWsj32jJpOix414kt2JMkc1wOqvvAoGASq3pi6np6fCoDiya11Uae+ap\niGcN9cqniNppKMfZSPCqESNmPIdydqjF9U4QjWwlVbgXLZb7L4cfXZ8HEUnrgdYV\nUrI4Go7NaWVi7fZHMPC8ZtAHirqKXGJ0fwX3e4X31JTq2a4fxrMX4DaYoiGlyYDf\neB0ItaeVE6MDdVVYYvsCgYEAiT44tIZLKHJBuM3VJnfQYC1TEGdUPsrxlSXTw+AX\nvwB423Vs/GXlySXuF60/72T8JDah8N3ha82MlliDg/cCatMiJGNxRXKBhztGQk+v\nPG10bm4fEXxaZJVvdOw8IZ/ZNCqqz8jO+fGn5Da/JOVl/rYn8ATzrkUQCOQMNRnB\n1PsCgYBdAf7zPwZJFbFumza9LDh+AS/AveoGPWzQ/evgNseOq1BVUtjOIhNXAAwq\nWJPM5o6rO/vPIbBcHuFxg16yfAnr5KJF3N/0jkihz0BGjOI/I8ht1UGsxh6p+jnJ\nXlbGfX8J/wUdDliNO4bx/rTEqiPXg8fEJJTS0+LukWYTcTroTA==\n-----END RSA PRIVATE KEY-----"
+            },
+            "username": {
+                "value": "mrtest"
+            }
+        },
+        "view_serial": 100
+    }
+}

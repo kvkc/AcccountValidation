@@ -1,0 +1,92 @@
+{
+    "class_id": "com-snaplogic-snap-api-sql-accounts-verticadatabaseaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Vertica diagnostic acc (no auto commit, do not change)"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "advancedProperties": {
+                "value": {
+                    "acquireIncrement": {
+                        "value": 1
+                    },
+                    "autoCommit": {
+                        "value": false
+                    },
+                    "batchSize": {
+                        "value": 50
+                    },
+                    "checkoutTimeout": {
+                        "value": 10000
+                    },
+                    "fetchSize": {
+                        "value": 100
+                    },
+                    "idleConnectionTestPeriod": {
+                        "value": 15
+                    },
+                    "maxIdleTime": {
+                        "value": 300
+                    },
+                    "maxPoolSize": {
+                        "value": 50
+                    },
+                    "minPoolSize": {
+                        "value": 3
+                    },
+                    "retryAttempts": {
+                        "value": 0
+                    },
+                    "urlProperties": {
+                        "value": []
+                    }
+                }
+            },
+            "connectionProperties": {
+                "value": {
+                    "JdbcDriversProp": {
+                        "value": [
+                            {
+                                "jdbcDriver": {
+                                    "value": "vertica-jdk5-6.1.2-0.jar"
+                                }
+                            }
+                        ]
+                    },
+                    "databaseName": {
+                        "value": "integration"
+                    },
+                    "hostname": {
+                        "value": "ec2-54-234-44-46.compute-1.amazonaws.com"
+                    },
+                    "jdbcDriverClass": {
+                        "value": "com.vertica.jdbc.Driver"
+                    },
+                    "password": {
+                        "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                        "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                        "sym_iv": "wTLjMcHoNuNFSVIU24NgAQ==",
+                        "sym_key": "nlR2sBVNQaCktKbutRoG6B+VZyEaYg8QRvyFBmphNtP5E5ZapCErNCacyz0K1+OkCHvNqaDlSHxxv+25SvcRc4CRo9a0uvCBTEs5SlDA/VSVILxsVi4UVFXfDf8TFYOjQXy+Jsiwl54XJezfZvmqcbTbIkpQOzp2y1XNTW+XxlyCV2+VnlMCNdrwb0DJL3ix1MSWWm1KntLm1LGGtzSCCG4TyX0lrvQoEKdtLTa8hNd2b9MCFX5CwCbaAK2L6nHVXZA5qRcBZ2fV21ry5UxovH9fgDws025BrsUxOdxczsrp2sIXXzfMiPRPaPikUmOjcFLXgHRUn2x9ELrO4LNKkg==",
+                        "value": "7pzGnTA+l6gs2y7uwjlxSw=="
+                    },
+                    "portNumber": {
+                        "value": 5433
+                    },
+                    "username": {
+                        "value": "dbadmin"
+                    }
+                }
+            }
+        },
+        "view_serial": 100
+    }
+}

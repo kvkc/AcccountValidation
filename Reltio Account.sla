@@ -1,0 +1,64 @@
+{
+    "class_id": "com-snaplogic-snaps-reltiosnapconnector-reltioaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Reltio Account"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "API_KEY": {
+                "expression": false,
+                "value": "cmVsdGlvX3VpOm1ha2l0YQ=="
+            },
+            "accessKeyId": {
+                "expression": false,
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "8RraD6Scz1sixLTT+0kpeA==",
+                "sym_key": "KhnxMqJOL9TPmHE8OCFfGW2/K+PDAcZ74Ak46cUrNya7/SONUChSFCxTLKbM/IkrUBrjTV9L+FEqUvJMY28n9zD9Lm8A8Bvh2ZrGXpWEWlS0iUibt/otco1LXIZUFWwktUww/4Y5I+34DL/rsJ/8lMs2ujcnSCe1q18u546KcXJ0LOYxkp9Ue4Z/zSYDwocCxX9CNze7xTy3TDLFyX1UsaV2vTK7bKP0H7cOYJ+A9LiihgbBfJEyOIiOoqyrOtnRNQBMlIrRP98gpOQq69DTbRnsI8CkEaRSMDlbv4xpDV+NoaTsEMyhtHxf8Zz/+bWHhkFhEjgkz7SQN6dwAHPk1w==",
+                "value": "XctFVdnRK+CSXxUraHBVKA=="
+            },
+            "bucket": {
+                "expression": false,
+                "value": null
+            },
+            "password": {
+                "expression": false,
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "jW7DUmUxHE/fvfPNZUfSGg==",
+                "sym_key": "oLzuehGfdNYNjNrixHHy32Tf748G61CnR6vWPS/sztcqIyeVwiaGyqnj6OopLtXrxsaiDmqK4Vnjb66Jk7zw9HUYBYvPUG6Zu+ZiKfaQQplVnR73G7V1b+h3/cPs8oy2IBYKU3ZDs1Jls4Rl2OQAnfgRW3GVurmqbuLQKo25lu77mrVwbo//M+YtBcQgM57MH323SDfC0SShjhxGSb/41pSWH+kOafiMQOzvVMp1eU0njoukxPGFDpgkmn7JenVgepGHAexrl9Mtx2qqBcXZhurQXbhB3x0KGHW1CmpiMhKwIsoB+B4LRB6qJDFz2Qz7+H//OeBY8TC9gkPXOAK9cA==",
+                "value": "x0ESNk+RnqRIyNFfabUeig=="
+            },
+            "s3Folder": {
+                "expression": false,
+                "value": null
+            },
+            "secretKey": {
+                "expression": false,
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "k3Dod9ec14Klt+/FomQmkw==",
+                "sym_key": "FLDW0yBj5u84Vi00UqLZV4E9dr/0r2sNsWV3FAfeQBFPYIM4ahr5G80yeFztRVXVjfjRdAzsVgKqa0KQsC6S1qVL1UfbHNxqg3h7TntfqzRTjlfSajj4aMj6T2WX8QK8VEl8Y8YT/Yj8cekoooI4j91vnLCXB0amcWPFquuM43fQCVLEGZmkesneFoVlCVwoCOcJAtoplPXZ4VKj6eqTEWDlzWtZTkB5Xpjf/uVga0gZNfxcG89mfpwSWk7xCe5pr0C0PJJ+jxn8Uam9kew82P8mhZQHBIYBIoUem9QD1UDm2Co4hMEl4TivzWOizlxCqhjkS8fW7jjktX5YNCvGEA==",
+                "value": "GDWzdMCWjlwrBQZ/QD85Vw=="
+            },
+            "token_endpoint": {
+                "expression": false,
+                "value": "https://auth.reltio.com/oauth/token"
+            },
+            "username": {
+                "expression": false,
+                "value": "pavan@snaplogic.com"
+            }
+        },
+        "view_serial": 100
+    }
+}

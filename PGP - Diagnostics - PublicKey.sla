@@ -1,0 +1,23 @@
+{
+    "class_id": "com-snaplogic-snaps-binary-pgppublickeyaccount",
+    "class_version": 2,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "PGP - Diagnostics - PublicKey"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "Publickey": {
+                "value": "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: BCPG C# v1.6.1.0\n\nmQENBFS4uvsBCADOinCfQAXHQBOVsRtJeMtm3ZIbqqmfZ89XnCzuQPehJy86FWiX\nOQXQUO2ad4HjcBEB1Dm3a4H+3kWvzehrsCMaKpn4m1nV4c4SHrssuA4XJhZxw1Pb\nGb1D50SAECKVnmcb9CY9xlsdLv19vdT3Pr0y7YyoLB7xeg/QQqpuIh0uYn0FImpW\n1XVxdywLE8fmkxVe0Ml3SKF7VSo/y3N8FX1kLdEmayLf7DcucpxUxQMfPHdEptLu\ngi+jw18NmYJS+y6ciOLjie4wB1IiOJwV8E07yAoIFKMkwlyxvFJ4vCkEoEiJc+ki\nOROD13E2PgDcB21Jnj8ncMsm/NeCXA/UTV+vABEBAAG0F3N2YXJhbmFzaUBzbmFw\nbG9naWMuY29tiQEcBBABAgAGBQJUuLr7AAoJEKsW/0rr+pbeEBUH/2dGlY6Za83o\nxjsoVMzb+rhCoLBWxP4yqtLy8/UQIglumITOlaDsJXhfY6vgIsUHnlR2+MxpPaDp\nYIm/S5c5lf02FhWNevCNaXPIC6e+burgiyBXixMQLyqCP637yOR8iKaOEnR6F5eo\n1UMAoVAQHugQcPqv6ws/QzhNi60zOii9jDA76CtdnREmxqXT3B+7wry+y7mAn2DN\n3nadLkJkBKbl34mpt+wMxtlMkMvU2W/KCvFKzytdBu0U6tRwRDNOtO0XI0M4ATa2\npXvjqbcUzBlOu3kX4Jt0CoVtpjz8jnfHqQ8D5vAbN7FdW6jb4QgwNWHhn8fbIqeC\nQMyT41eBpdw=\n=eHty\n-----END PGP PUBLIC KEY BLOCK-----"
+            }
+        },
+        "view_serial": 100
+    }
+}

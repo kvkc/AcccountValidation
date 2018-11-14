@@ -1,0 +1,62 @@
+{
+    "class_id": "com-snaplogic-snaps-box-boxaccount",
+    "class_version": 2,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Box Diagnostics Account for snaps.snaplogic@gmail.com"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "access_token": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "t3O5daJ4PRcwLBujvCOyKg==",
+                "sym_key": "LglFoRFC0zBUQHEXsroCrVLTKdiomWi35N7rbFgYF6lbdff00MX/HC3ouqGQ1nl1jl8k1FFNnL+dt0nAhEONEVHSb8+8z50nMsjE8awoafof8W96fU1uhnu7pxNWX6C6wxpgbe+KHAbvNCF0wydg3cCozlstIOl/fgU4oG7QBS3rXMMy7Wyn2y5K4T/VrDedbMv3u02OFRJNq1Yh/nCh0K7/OAJDHJik5QyuTaoGZJNiLKqktzxJLjJvuFKmztQh4meHxRm+z33P/oAW88/lut8RfypGbpl8B7xmDW8CdMiv7BokjOw/wAEfEc1hJNjOtITLAdxw1TyqSsQz+cS7nw==",
+                "value": "w3kwt8yZTcq8Va0Kl+CQHCaZZOzE7BI+3DA6rjgXab5iB/zprM8nDzEKpzKvL9sN"
+            },
+            "access_token_expiration": {
+                "value": "1540178029"
+            },
+            "auth_endpoint": {
+                "value": "https://www.box.com/api/oauth2/authorize"
+            },
+            "authorize": {
+                "value": null
+            },
+            "autoRefreshToken": {
+                "value": true
+            },
+            "client_id": {
+                "value": "r79udwu98571eg2fpe1jz2dwtimnerug"
+            },
+            "client_secret": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "TU8dULHbxIKLsVXAgJR8kQ==",
+                "sym_key": "OWW+KYecHJ7VVad9P8TRuv0MT+qCJsy92UOaXmwheyAN7djbhR9uGTsYLG93sYT9+PFg4xxmcZhxyAdRBFe2A4cuD9At1X/1c75T3W2upeYnu7+8awnPLhBzH2JTquVKjGkUNE/RyaApKS3q2yt1jrWJJlAF5+9JKMuLvwQtzAT7B8vWS2hpW1fNylGafwb0ZTxnv24HrDDaqpBbGsw47JbR7kPlNm53p5385vQ+0a2EQm4KMZ8+7uDILcP9S7ON65UzZxRnsZEnsfR/bRXmwe06MiOsAiKKmvh8rui1ogrPLaFf0GLX8eAfAizmBLnh//qUh7Y9EZimFHONQvEVCw==",
+                "value": "p/xrunZQluodY1ZwQDPwOQmy5gXctj1YC6hsXg+XxhswCpNRi+Kyjg0ZAQ5E1fpD"
+            },
+            "refresh": {
+                "value": null
+            },
+            "refresh_token": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "HkEgtYkcYfMOSNtxvl3zAw==",
+                "sym_key": "RbrCDIlw42p1LlSt7UQWNZF4F5bSA8tD1cGWCHMA2OpGHc4Fa4uw7ZQGXduHgAHbVOzCS1YcApcxX8mOkc7Gf2QuVhdqugRHmBMo9my4QMahji+jMg5n1TgTudNxxx3ufrKk1QBDIzy9Xh8CljlA6+59VLg4um69XXbzZgGKlmxSqgY9i8dkQrb0iC+3RjNdX0gDj0l1P6x5qZ93YyA4vq1DIl+GFz01QOd57ycMBHbV8DIcnsoBNH0xfOw6+OWq4uEx1+qKuGZyIeHNZGdl8PfOHlMM3tEh/6wjL4SeGn3VBrqQVdI2us2YHHdPfudDNKoqNiST5zNgVQfLDfSIvA==",
+                "value": "+8nTZTLtU9QX/s4GrMX4H6LMWUxJ/9wKSmsolTrC+WoyDM1kdpgGIMBJ8Ui6cNFwr1OR7Va66n+bKYtFqZQpgWNwBLVJDOBFTUtbh/+vgms="
+            },
+            "token_endpoint": {
+                "value": "https://www.box.com/api/oauth2/token"
+            }
+        },
+        "view_serial": 100
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "class_id": "com-snaplogic-snaps-salesforce-salesforceaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "SFDC snaplogic2013@hotmail.com"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "loginUrl": {
+                "value": "https://login.salesforce.com"
+            },
+            "password": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "ancadqV7tQTw9G+hSTTxSA==",
+                "sym_key": "PIG78BtUlUKxsi/lbGa85SKZJZTdzioOWTB6ex/M+KB7mp2/XZLtCIGFAEPheEpvsZzegT/+nOL47EhpJPnj4jA4tRo+UO6eMgJMF5aOq/CmM/cr2qCl6JPWIvexMRBqOJjq3MfQZNpE4H7UWRBP5OSmYE+3tzdU1g1e9Hy01bSGeM7shPpLNqEcm2Di/XX3E0eAqlDYIQl7aiud25Wb8n979L2PYr/8pqKmruVQZ+cLyfv/KntMxqbQ3Gu51ouZqONgHHiF9htae53gTibIsh/NQyQwdas+mld7nPi7musYFKQE8tEXcZCeYtweoo93G2rIQS4BELPuGW0KpoFyJg==",
+                "value": "pjPBRyUwHYDzPLVp30xJkw=="
+            },
+            "sandbox": {
+                "value": false
+            },
+            "securityToken": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "KRxkBV2AiJ5NPIq/nhuchQ==",
+                "sym_key": "MoJBZsZ0bJucpET0mWKKQ1W1+KC/Zh627hWQxblSxjBTkTIY67RTdGOE8ryHJIiZhJOzQHoXy7WGLx15YuPzsgQMggayh97gZUnlqxofq3hrlgCbRzq4xznHOAtwPF11N7Z9lcGZuigQ5lbYnYRcdKpqdIrdoS1WK3O12zkn11ddimAXA2X3AgetI5Z38iXryPgqDS4ZkDl/Aq6BXtfI7cLhgbFsgClJyZt4pZ5pJrRzZTi/4103DdxEbum+MxhwbCZhOUa31XP77PsMUxbJR7BKE+HOeeJ48W4Vmhi9zqeZjyIRNsVVvo72tHom3Nm+2QPUut1PKVvZ/03il7mFNA==",
+                "value": "9xi+GFwUWmX61eR7+YrDex2BS9uXqHGOxa9FbOxd5bg="
+            },
+            "username": {
+                "value": "snaplogic2013@hotmail.com"
+            }
+        },
+        "view_serial": 100
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "class_id": "com-snaplogic-snaps-mongo-replicasetmongoaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Mongo Replica Account"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "authentication Type": {
+                "value": "Default"
+            },
+            "databaseName": {
+                "value": "qatest"
+            },
+            "encryptType": {
+                "value": "None"
+            },
+            "password": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "2SPIwvScu6+FlSi0Nwl27w==",
+                "sym_key": "hzHP4LC1O7IZFY9uNuYGNX2Y7muPy6NOEOAJDcy96fd9IThRplnAJp0hlcBJs+FaLRJ0RpeifKT5q+YND1cQ98pXjwBEiD8VFoKR3mqpPSdDOetn8wrD60lnqPNKEV7D2oYIG0K00/fPq/YBa8wTDQ/pR7eD58MWqKGupyMkLzmLuqv6fek5dbzlTqlFHC8oDJkYYy6Anrlxkqb2yJIpHMhOtNDEjClBRuNu8l0s90IJ/D9YtmsJKwFxvQNJPUDeTs40qFYZVSF1usEH4dVN9ukSXRRm/Y0FV/5ud72tCgEnS7CmS46XkOJc/k6H6/dTWUjwMw5oYectERm0hO1WVQ==",
+                "value": "NHTCbv3pW72PRbTh7SefmA=="
+            },
+            "replicaSetConfig": {
+                "value": [
+                    {
+                        "hostname": {
+                            "value": "snapqamongo.clouddev.snaplogic.com"
+                        },
+                        "port": {
+                            "value": 27017
+                        }
+                    }
+                ]
+            },
+            "username": {
+                "value": "snapuser"
+            }
+        },
+        "view_serial": 100
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "class_id": "com-snaplogic-snaps-workdayprism-workdayprismaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Workday Prism Account"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "apiEndpoint": {
+                "expression": false,
+                "value": "https://wd2-impl-services1.workday.com/ccx/api/v1/snaplogic_pt2"
+            },
+            "clientID": {
+                "expression": false,
+                "value": "YzAxZDc0OGItOWVkYy00NTZlLTk0MDgtZmI0MWZkNDJmODY0"
+            },
+            "clientSecret": {
+                "expression": false,
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "mnwG8itrAq7T0oFjJDlpZA==",
+                "sym_key": "XYoiJkXiSn5s+kr3flDlPMaTT5b9B3mlSixsu/tjZyLtk3rml8tMul7wEzcfWJ6LVDFY5l+XTpaxCX+lPZCymwsbO7t7y6vx3AE8oVvyZ3MEyYx+ZOLZhFUxR5MY7Yon3PAwyLdvKdgzlcJ2SRz2514c/DT+LWAW16hRwnW8RVjI2sYWVN9M7wxrdx6ZemZlk6zk0AFTx1J4w9D9vAErv03R1o/jKCEk/w2WDFqHvYVO7JM2xfrGDH955m6HE850lOBFE5LuLim2tKf0XC2k9PtEqzzfWdfs3KFLmEqh93qWEfwcIasDZDQoSRidSyRMBPlxWETjUcaBUwhscnlWCg==",
+                "value": "EXg3HFaVnKepHKLRrJik2teMPpFChiwBanqjekIC8GU+NkzlQbzmlj+YmCzwdbfXYPY/622x/zcdxgN4CyzWhQIKT0a28zfxnq1wb0wGU8E7ER6+GUHJhrPC4h+a5TIej6M7a8hQO4OALHr4jFa+JA=="
+            },
+            "refreshToken": {
+                "expression": false,
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "Mh6hkYeUuBNDOYKwued3NQ==",
+                "sym_key": "BR6hbtjJmOV17kyCqcwWCdm97NjX2WqGClxVLbVMYky6PEweslyLQPrFbFUaUaYVnuhLFNEO3aLFGKaID3zxXD/3xWbYKYTYtPCWO2l4iMMsiADd19X+XgzTqW6TV4nnpni8j3AunLA4nVrr3Xm7nsx/P3khanjC7gF36637BeRaTWLI1YfV2Kvg2AFTD12yMZgb+ocIf+oaf2C9Y5QI3yaH7mDpofyuugDEBqMXdrRGtfEqLQ14SS5HyQ/VNBo8CpmUQBFvDa8xVvBAjhyODAruNlGB5ugXTNmBFXbDJnpMwwKIkTugY+CnFR1YL5NW8MdR6Q9XFRtzAsaxEGSoEw==",
+                "value": "2KkMlsipSM7LYnH7NVzuHsBPwH47+BuLXoKBJgTr9S9+l/f2yJLb63matoz0vRGe5GeGYIClnAXUngtQnrg8m8UMBaB38ZKUYQE+8ZSKjBWUJTu0PZwnkXXVv2ruRUY43cZzfQ++5JuWrGSZ82C5yg=="
+            }
+        },
+        "view_serial": 100
+    }
+}

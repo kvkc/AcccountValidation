@@ -1,0 +1,86 @@
+{
+    "class_id": "com-snaplogic-snap-api-sql-accounts-saphanadatabaseaccount",
+    "class_version": 2,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "SAP hana new account SPS12"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "advancedProperties": {
+                "value": {
+                    "acquireIncrement": {
+                        "value": 1
+                    },
+                    "autoCommit": {
+                        "value": true
+                    },
+                    "batchSize": {
+                        "value": 50
+                    },
+                    "checkoutTimeout": {
+                        "value": 10000
+                    },
+                    "fetchSize": {
+                        "value": 100
+                    },
+                    "idleConnectionTestPeriod": {
+                        "value": 5
+                    },
+                    "maxIdleTime": {
+                        "value": 30
+                    },
+                    "maxPoolSize": {
+                        "value": 50
+                    },
+                    "minPoolSize": {
+                        "value": 0
+                    },
+                    "retryAttempts": {
+                        "value": 0
+                    },
+                    "urlProperties": {
+                        "value": []
+                    }
+                }
+            },
+            "connectionProperties": {
+                "value": {
+                    "JdbcDriversProp": {
+                        "value": []
+                    },
+                    "databaseName": {
+                        "value": "HDB"
+                    },
+                    "hostname": {
+                        "value": "35.173.88.84"
+                    },
+                    "jdbcDriverClass": {
+                        "value": "com.sap.db.jdbc.Driver"
+                    },
+                    "password": {
+                        "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                        "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                        "sym_iv": "q354wN62O2AkfyWmwfM7UQ==",
+                        "sym_key": "bp1TFEmF48ZQTQOShrnCLTI/Gd2rbHkZBUgW1f50heoBeddEbFE13kA8sezhWVWW+CROeTRPX4Dztd0ATkgz1kVLM6MxCcfk4TLfYD86+qaaY0kNZuxBXlzxgavYSmIVd7IRQNiQthPZ3XBaWIN3NqPyTRqtudOIXAtJaa+z80yIusV/7EEwjvzcCEbLR7ytSr5DvOSalPHgtEF+57bzE+ocgQ2RSFmXNVWqAgjmKX+UHjE4Gby8Xz4S6rtnc+iaek6yojtnOP0dFSUYaNegFIXiVjEX3XR7JjPBrrAcLjlpiLSNu8jqQBmpiAll6bQ2sDkhL+VRz3PbhYAHNYBf8w==",
+                        "value": "hVMAITJ6EywXXeiCoDJ9ww=="
+                    },
+                    "portNumber": {
+                        "value": 30015
+                    },
+                    "username": {
+                        "value": "SYSTEM"
+                    }
+                }
+            }
+        },
+        "view_serial": 100
+    }
+}

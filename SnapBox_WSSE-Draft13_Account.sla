@@ -1,0 +1,36 @@
+{
+    "class_id": "com-snaplogic-snaps-soap-soapwsseaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "SnapBox_WSSE-Draft13_Account"
+            }
+        },
+        "settings": {
+            "IdProp": {
+                "value": null
+            },
+            "MustUnderstandProp": {
+                "value": false
+            },
+            "WsSecurityVersion": {
+                "value": "WS-Security Draft 13"
+            },
+            "password": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "UF7ddQbQReJ2wlAif8KVgg==",
+                "sym_key": "HxWpQoOUlNJtBqznpA5R5GV0EvFSVG/aI9FSAVG9myer7ly/2AUX6HEy/khVKfUygTQPHB5pxkvxwyu2+kOUq75LVNSledxrP4VkieDjGJFJJ+XhP1qZmlahN6RyykSG56PUtAgUnXMpbUVFnnVM/eFwaYM5rtFNPSX2720nUSBzeGVja/Efwlqdc4fy1yuMf/huhBG1x39iR/OFHnb1W3mwSthBmc34Xj4+hIMbL7PXvaLyIwLw9HDvH1rV+W664sLDGDV9E4izz17nyewZVmD1vsiaMz38i5JrvldV4zhMGP95JNY+wnCz6u+qYmK2UcHAd69EqabRm3KvV/XJtQ==",
+                "value": "gFy1sX1NxAtwefz3vlO2AA=="
+            },
+            "username": {
+                "value": "snaplogic"
+            }
+        },
+        "view_serial": 100
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "class_id": "com-snaplogic-snaps-dynamics365forsales-common-dynamics365salesoauth2account",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "MS Dynamics 365 Sales Online"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "access_token": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "GMMXvUuDsu9S18vdAmdXFw==",
+                "sym_key": "dQmDKCrZtHIUT8pLX89Z5DM3CoDCEn8kpbf4T0sIks4T1P+b/QMYhXmr9MEGxVUnnNH2jxWQgISO0vPxDocz7iIiWaI1Pq8YRlHZVxXScr3QyaQyj02kFIJh5BiJkaLDxs7vaTmUpYMX16AqpuFrWjb19i/3c9wWOCQ9kcaEYUFeihilRV/pETv1ufXh0DK4oJI0n1ib0PtVBZVKm0nbLzA0n2qJEzdf5310B2w2bbWlUMsPmdqUDWQ8aACzrviN+phafz2H7ppb8DzTeYUsIASk29eO8qQ7K/SXWX3aBN2UUCuoQct0gNvjBT4m/yd5sxWwI8QNFm5uMoNK2szQMA==",
+                "value": "o+0dKSi4uZTDHRB3KUSx1cxzWABjeLPPQhvWsKZG0D1ayPghK1EZnqj5XssXW7nuhl7/Q1N1TZRfcwx6tnn81YkifnzdyaOYviAe8NtKRXJmYoxkgWEcxa81sKA5MWcTv/7cqxpAWHIiArILiboR3Pm/VtL2heM+FRGNZI6AmW8m9/AaWbeTxlOVzlSOtLCPHl1lL/ZlxndDfgRgnIO7lirVsjfNMseRqD72m/oGGKrUeukGrmpNcIpNrzz7ekGFFoROwkV1u//l4328jXBbnxD/grmhCSkmv0cmgPDF+feW8oqrcPPNdcFdfkEpEBeniPZMitIq0f5YeLgSqiY14xzFaKckRAB/uwOKgIsHbB03kRYzr6er3SBrFwUpOe8AhJMzpbTuTFZ0lO66ug2dhFfZglClNRSTqXhQxw4m0fsMzWLovxEAkqNot4TynYgpAbOd7kzChWgFPd4SkCklK2hUU8511GAXdrsP/9hC8TjeDPC3K3kE8OwPbBZNM1vD7TmW0lRvOdWug/wiLBNeZ4D8yOHYU7PL7bznI/40t5MljueMOaL8BegSwwJR15qcpFebt3DG9X/rMw4l6HBf2Tg1JrKIyRmbPcm2omvCL/SGHFKAjMg6lckZ90l3q+DJhlWJO+nHkLLbb8lvzl8VVTnLwMi0Lb3hlNZZF8tkL3xnh8Nqpe8WNEaUaz4Lep6PVB56uJ06tWTjW1FxyPdydgbr+tldj1pBubEXYR5qGSgvdmTngGrsrse1u7G6aRef/dG9oWS+RfiZ+ZuLXn4GInhx+ywO0K1KAROyJ8jN3WmIs4zkQ3xk7lWU10eWCB5an7KrGpi1/R/rn02+Coifzo5ZX6r/LB5GRIZ9+ARq10acP8gbR9TBDBviOCVrDzVV8FsxSZIUlUfgZ+WGj7KogPGdoU0k6RtopV6egHqYGMO2idSslXM5Yf2hPN3Blv6k8itESrHWjAUNHuJvY2RkND9LwL9zRj7/PcxFFOPJlN34hJ6BzVOM8/p3i64u2MWLT2K7TxTUIyaTxmEjA+yrQSBTpElzsvdXBgg25VrSaSBgYHR1nAzqJux8SHkNDlpAfm+U6E/nyar34eoP6/u04rXcTAPXVt1NJfkLgOYq3pbYtC8T9JCB9b1DP9qutshd4Pgg1schTfwAns48/H2IKDhRtgfQUUhA6fbdq+pb1RGHIajTHvVUAiF16jasul7Wg7mgSy6Uqw/h6TH9XTPbjMaRT8DalE0w2bt2j3I5+tO4qeSiTPLJW/LM9Y3YGAmJ72PWyPHUMp7Abym1BmXdjrzcm4kkMD1NC8Cb4AiEcDfcLwwlR/hrH3TscoLESj4tHt7MUP7hPHJ+xIXvfbDk7zPcU3WvTBtyOcesj8OBqk0jtCpomWBujBIBfNXoao9hLvQsnnioCAoB55VyT45eTfp0HQT82gni0yp4/OCF6y7Iv7e9utsH3mowVvFYH+natjZu5Ysw4M6MGlEUKVUBgK/8K+yKuoAx5ruExPsgaNV6incytS8UmjaHC17L4E5ZEo5aqDrO1kk88KsKeV8jWn2QPTX9REKBJQiiZ5jxa9Ex8EvMPJoxEa0NmnjRutvV5NSWuJmqydCEwjufhjLSTNU6I7Gm8ClBWlqfZh1y5vi3tBDjr1suWgND47Zg3oxiJxXqGPesb1deEDUsY5jaVxZWcvwBcIvcidL/dSurmBPqmv9DqbVrvFTMv6bPySVhhuZL2YQf5UTY3IoYwgXkiqnL7ivjRGXJQvduqzjuuXdK3xMa5Wh3EQHYGgdDBPmbd7SbcJ6icNZ+KBYAD+uboVzqMf2I8GuhBepNIFDyxg5GBfcyhupTVx5YoAqVuBOrz9ieLR9cPeJsDqcm9ckjhrKZLSha2sYa3l5BJFbkv9f7oHygCK/SijuHPVSoyfpNZCk9YQkM1ZrVAMKD50qubuozjreXseBcSnDYQ5NbpW4czGkP/tku1pY+RcpvTclWDFTj8dmGFnhyOTSCoScSBIzZ/8k/+RNiC2ViedYdWLTU9lTkO7wPxj2EDc7zLgSHVj30isx5aDd8TepOsu0kDmKRiP33iNEyOWW5+XAxHpLgEGzS/0JdvtwSwcVaDmH1"
+            },
+            "access_token_expiration": {
+                "value": "1542196046"
+            },
+            "auth_endpoint": {
+                "value": "https://login.windows.net/common/oauth2/authorize"
+            },
+            "auth_endpoint_config": {
+                "value": [
+                    {
+                        "authParam": {
+                            "value": "redirect_uri"
+                        },
+                        "authParamValue": {
+                            "value": "https://snap.elastic.snaplogic.com/api/1/rest/admin/oauth2callback/rest"
+                        }
+                    },
+                    {
+                        "authParam": {
+                            "value": "resource"
+                        },
+                        "authParamValue": {
+                            "value": "https://snapdevsnaplogic.api.crm.dynamics.com"
+                        }
+                    },
+                    {
+                        "authParam": {
+                            "value": "response_type"
+                        },
+                        "authParamValue": {
+                            "value": "code"
+                        }
+                    }
+                ]
+            },
+            "authorize": {
+                "value": null
+            },
+            "autoRefreshToken": {
+                "value": true
+            },
+            "client_id": {
+                "value": "1bf3ef87-9e6d-4d8a-979d-96cf940e2b12"
+            },
+            "client_secret": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "VlmYitGXP2BHl/L2p99bgA==",
+                "sym_key": "JFxpNBgaqsak2YqUbueOMBjz/nMzZGua3ZTcdGbu/7BZ5pyB60EG2y5P2Pl8VA4Ml5uZU3xPOK0tY8AlBMfndJ1HqNHU+ZSVCp9Hbj0suEPzB/U3xdRF3PRUcy7+ILlCiOFZS9uO523vUPaUgegp/QmcrcnL2iZt5lcyjbIU+ynie7ZCFQC+GGQTVk8ULP2crhqoVkbSUcBvt0hVqt6KYGi3IuIm16QcBiBNGXWMDc/dSccazZoUVPPPqbAVoG2MpjGu+W9pLkiYWPlXg+BaGulsdgyj3THZj19YuCuLH7LHU8tyY6sekoLEo8LpAhh9EHUmzzFG7Vcz5lR3FlHOsw==",
+                "value": "4w1go65FvIjiPqdYiP1t4nipUu3Ch3qtoQuaRYm6k87VbcbPj2fdsA6ibRmBQdZp"
+            },
+            "headerAuth": {
+                "value": false
+            },
+            "refresh": {
+                "value": null
+            },
+            "refresh_token": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "zYWu/5z3M2qghUpXLi0eXw==",
+                "sym_key": "joRPS+4kPJUE8DlhzAeP3kspfHOQJEwGZpjnh8z5NkpaINJd92VLv24PVYHiJoj0TR+Xbx15H5Xbhz5N70C4rirbE7CcP5xmrSeYsW/pKGfxmV8aH0paImCYCSrP9/IrnCtKuCj6SMJXbyJtSKRBRPtmmkjPlWViUSA4E1DoYLGgxcoJn5ssmUSaQO5IwP/qnCArUWIrHY9NLGdUwB6NH7yNzo4Chx5I3OyifOdASCWHZ5Wvb5A+knM7M6WsPZ2hsU7TmGO5/E2BVRKZ1C+ZcJifaDlbLRb62ja/ZE+KFzPmsvWFvLbPEiBu+CXGpNUCUXezT0jw7o9veNrJcF4Hcw==",
+                "value": "Xb5Cc6T0a6f9Vdpo+QR8omqhVtkosBheEykvAAMzUewr7dmwj5NiNTFRXYqHvWm87zD4Fwlpk50JVUEpnbRAp/qm8v+r+5wsJl1lLypsTEZFhkpq6j2Vpm9tP5KqoSjGmiUDSbLBScEkCS1AnvXJXG/LYnG9vKOzO9BJSShIbqnsuQyTasjhsGC5BHaxG8L3ZoC2voX/MbPIizwIwqSC49wE7H5yuWG93obCqanPg/JdgqjfDgB01wHCS41lhA1vzGJH6JnL1WRFL1kHmDH9TnprLjw5y+3t4aSLTWHizQ0GXqQk52helYNkzBslRMBJDQyPRbajrr7ifoIZDzCujesqkWw0HfF+knbmy2bnMwdAriS02R75Rz3NxpBGzdZzrlS/reOlpYV3SvxD/YxbC3c/diEcDEy90oEp5ujzDVXXRYTmEhEQBevWlWKYtAZlel5XOZxwkhaGInAOp8ajsJQ5jNb4WC+o6/QyIkD877YEbF6n5w08coxXePMg8d7hOL3dlxIqd79/C33lxMApmeQPKrkfM7N3/i57FCN2DvytzgheLtZbJmylW9/L/pLaEGZ27HfCZqXULSS3uGo+ufF279/BDEfosfG+qYI24+Dh4im9d/KN7LtYwwIsMYDiG6mjCS+m15eV7oNEg1bYgfmiBHDaP969dfiqBAynpYxrNfUYFHJWL9Yq2q5OrqlEnWZQzXZCzSo1feyYXfbMpxXVIswa053YfYx+fituPCZHvcbFSeR2CboGsiVXuMCpzdf8Qk92jWUFWhKXYTd0tdXo5GYxM1OxLZRyahVwmxBXyXER8h3cHw6RU9UwMS2QqfzmeHSubUc8IWBRNiEe3BO3AWJtvfwUQJmQOH74k5IhCQ951AD49mn9l0PrBk7nQlunfSvuByZWbfoFa1Sxwua4yrVCmAMb1A6vS5tdKe6086EvgyR9S+Q9XMPHC49zFIhpDgk0bCmnNJHK2fRK8moBDa95paLNS4JUWTWJOqfwDweTwqrLKkohLKcFZx65DD2fcdirGd9nIoUCs8dFRMm+t331zLQ1cHVcasPQO0p538pjK5HQUIefjUGTH7vxxOLS83H58mcmNGoMzW6feNgby1aC0zZI+6bRGRpxnjEwyNSuvhP7UHIjZUpNh0YkOrVMFsV7bUTj1Ktd45wmpw=="
+            },
+            "tenantURL": {
+                "expression": false,
+                "value": "https://snapdevsnaplogic.api.crm.dynamics.com/api/data/v8.2/"
+            },
+            "token_endpoint": {
+                "value": "https://login.windows.net/common/oauth2/token"
+            },
+            "token_endpoint_config": {
+                "value": [
+                    {
+                        "tokenParam": {
+                            "value": "redirect_uri"
+                        },
+                        "tokenParamValue": {
+                            "value": "https://snap.elastic.snaplogic.com/api/1/rest/admin/oauth2callback/rest"
+                        }
+                    },
+                    {
+                        "tokenParam": {
+                            "value": "resource"
+                        },
+                        "tokenParamValue": {
+                            "value": "https://snapdevsnaplogic.api.crm.dynamics.com"
+                        }
+                    }
+                ]
+            }
+        },
+        "view_serial": 100
+    }
+}

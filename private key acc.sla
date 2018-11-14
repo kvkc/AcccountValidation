@@ -1,0 +1,27 @@
+{
+    "class_id": "com-snaplogic-snaps-binary-pgpprivatekeyaccount",
+    "class_version": 2,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "private key acc"
+            }
+        },
+        "settings": {
+            "Passphrase": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "kdhkCm7XHgD8PTCSzuRghA==",
+                "sym_key": "BQuzL5p374LFURDvhuFW/5xpNtJnR19aKgwCE9CMNQydWYvJ7D9+jDiNTMhToUSaENLOjOHF78xH8x9LeNBvgr3RcBe11akEDKQfr2qhHcupidrUZiGSZ5EqSy3anymltVF80Q5lgrK+OeYXN1VGaCB/6FT/L02h8aeMCdv8ImopyZCyb31BTBJcKj6CjGGDqtsTgUm/rH3l2I/3NHt77SPx1QUiTaqDpb6Mz1CLLsaeXvJbw2lryJ+IsTMYRgjoyMCNXsBkgoxg4s4iYNz0HgFLMfKh2PxhpK9MR06GcjPsn5/PPE1gd47LHj5t/N3V5uZ7z3ftwPSWeOsFigzBlA==",
+                "value": "7jIzBzktDE5oRswuq90sgQ=="
+            },
+            "Privatekey": {
+                "value": "-----BEGIN PGP PRIVATE KEY BLOCK-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\n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\nbRv9/WWXeZ1iathlVOBY1oiwwJl12cLqdjkLTA==\n=T8l+\n-----END PGP PRIVATE KEY BLOCK-----"
+            }
+        },
+        "view_serial": 100
+    }
+}

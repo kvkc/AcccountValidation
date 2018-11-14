@@ -1,0 +1,40 @@
+{
+    "class_id": "com-snaplogic-snaps-binary-azuredatalakeaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "ADL Basic Account"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "accessId": {
+                "expression": false,
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "G6/e9WhwI+BbfRI4Ss/c5w==",
+                "sym_key": "YQ6ZH0QkBQlmSq31vJs2f+y3GOWee9ZXur+KWT0DhMBPaS+xhBduVx++1N4/7/lQuVBmykSLnKTKQyrKEtiuNZz1+0fSJU1qNlbqeNyLeadN+G0+4G/wlmjazm0SKYNjYDpvDGH/TQPv+ZHaZ6N67bpW35CYSdEXp1r41O3XZT94mr8OODk6cpvEPO/3ZRSxNBa/cWU5XFFSByCYD0R3l+YUkSklyslxbzW3dzKwb1eOZmozC1kAMwN6vHr7BPzXxsON/tlqiZa+SPkhOv5thSeIVnnRokbabZ+HRjEnD0i38lQ30cp9xlcIqGTKjaJEGgqQE8xfwIE+8Udr916Ldg==",
+                "value": "g0FOT53nxbYF9JdvQagteleZN7m4MMSrQ7NBzbK3AozriAu484qyvldM3TaAlrpL"
+            },
+            "secretKey": {
+                "expression": false,
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "cDXxedrVVcpe30FgQp1dsw==",
+                "sym_key": "GD23wUASlQZcxMO068uwA0675+J93MSoWZ+5Lp5G72RcxJzyqqlTOEjXTLvVUBZeOo75d8gifZzL55OaDC9+dFqfHkEuEjAXz3iEOTGZKYOz2onLh2f5bIfghWLEJimNAy1PXOlNRYQwzf6HR7fl4Q37T0MmBcoO8ELpRSx+R4zOxHekl5UNc69pGIX0OZSkNnoNtxINqQjOKsqhyBWba5K5b2kL772Qv10AHNZAas7/LKjl6HJcj83UT+KlekKxUSR9jrS7O0GebdM4QY1rJrIgDIAvSEOA77DkuDqEOjGxug361Bmas8P2zHNQtU+jKaOoXC7U8PbijV5EklZw/g==",
+                "value": "Vg7gbTrM19xHEG8E14rJW9wNKFBCNE+/rCHEz7dQr5CQxpH7voghssbAxVrlwL9X"
+            },
+            "tenantId": {
+                "expression": false,
+                "value": "3164ebb4-0b34-42ff-820b-25c39783105f"
+            }
+        },
+        "view_serial": 100
+    }
+}

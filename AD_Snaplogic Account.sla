@@ -1,0 +1,45 @@
+{
+    "class_id": "com-snaplogic-snaps-ad-adbasicauth",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "AD_Snaplogic Account"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "domainName": {
+                "value": "ad1.clouddev.snaplogic.com"
+            },
+            "password": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "1HjssYlOHcjZ11/+YlBnNA==",
+                "sym_key": "RRaE9bBJ8l8LhlTCTWoxfde+rDwPCz2YEjDE5skehFLRp5hEtSfykjsNsCQ6aSvjpueby/alDg3wU0ht1EvBSLEadiCiLKm+fy+ZxmgWaN9GCn+zoW2bWmEOm+tF+R8GxjYkTHgHWg5PGG5D/3Y7P6zBs+qejFHxXhcWJODoBM9EAI9VlWFt5O/M9KED6pY+VnUcv5eOa70v8Bop/9kbNQ16tPje+sLb1PaXYo1GZA6mWsW3wmRn9LiWPZ69PxS2/0CYTY59GLlITN1lldBqA2v549J4aEI6e0IkcUKbff+AWV5PzkZtpsjDe6gZKDEWlUpEV5p/nINCEYmQ67pkIg==",
+                "value": "ssrpPMuE02dTcEDXpDck1Q=="
+            },
+            "port": {
+                "value": 389
+            },
+            "referral": {
+                "value": "Automatically follow any referrals"
+            },
+            "serverUri": {
+                "value": "ldap://ad1.clouddev.snaplogic.com"
+            },
+            "trustAllCerts": {
+                "value": true
+            },
+            "username": {
+                "value": "activeadmin"
+            }
+        },
+        "view_serial": 100
+    }
+}

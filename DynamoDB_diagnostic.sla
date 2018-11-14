@@ -1,0 +1,40 @@
+{
+    "class_id": "com-snaplogic-snaps-dynamodb-dynamodbaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "DynamoDB_diagnostic"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "AWSAccessKey": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "OEdYXj79AB5LxJ3Z+D+wyg==",
+                "sym_key": "d6axIP9ctNFt2ReMULYLIT2X18PoQPgSTAzPUpPvju75RneRmSCcY/012bi28hQZM4DsciZI/ya0kkUTw8B01GMRpqT6W7AG5HAeQ9qChkK5/R94JdjlRKrfuEZc5OXan7KTMclap8+ZFG3RiQTdOOOMwD29JRExSi9WLTFRUfK3k8B60Smhskl6nhKneNQalnv1eTn3r3ykJhZEnW9yrHhZCi+zwmT+K10blgPJEA8NhoMc05HXj2kNIKkii/5rIxT1BeT+IMbdR20ehywtTRTzvx3xtF2LRw59Ld3zbcJZOzy+A2drpeJcHuUFuSeSS/G/Y2HTkh2oSeXOzkUQpA==",
+                "value": "btetsTUkwjOnELmai3ay+nq+msaM80AUk+DiXH1FWQE="
+            },
+            "AWSRegion": {
+                "value": "us-west-1"
+            },
+            "AWSSecretKey": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "8oa4/eXzJaqP63cpKKNQqw==",
+                "sym_key": "KdCS9mJKHM7uSiED+FbVo4HkqAZ4WzHHT9WMXyykZHtZCzfWvx1LCLvMgS2rwZpZQmpXLgk4O2EOatogQQpbX1q6xX/eU5BdfjyFIE3SRHPsQ6WdsOAOz3Rb5Qq3X2smIlYEkF0vZBwAq9mC7xRAhF70znMouT/Gj/xjfRKI81t+K2dwlGLJsWpd2bFmMD4WUIOdWhI40ptoMTPJAiw19EvYPhd+qEZrCnT8CMQqL9YQYGOCi2dvVRJTeLURsuUvE8yllFPx2QICvXxiHNd1PwyLlRfjSagVHJgC0/LYx3Vy8R8XjCIV9huD6u6qIvG/m2Tqr8bViDrfFFvDbGCFTQ==",
+                "value": "6QGYwYfaRb+hLCHGTpqFRXhfCjnDD/3ZOQpFPWpHYUtGNeLFm9UbeWgKEVoenr1e"
+            },
+            "EndPoint": {
+                "value": "dynamodb.us-west-1.amazonaws.com"
+            }
+        },
+        "view_serial": 100
+    }
+}

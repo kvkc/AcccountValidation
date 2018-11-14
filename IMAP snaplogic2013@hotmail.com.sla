@@ -1,0 +1,58 @@
+{
+    "class_id": "com-snaplogic-snaps-email-imapaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "IMAP snaplogic2013@hotmail.com"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "attachmentPassword": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "uYeIAdTnFX6oafTyUvU0DQ==",
+                "sym_key": "Ha8x0PxKZdDpq19/ti6Hye/OVPoxODYLlUP8FxWz90U+nX5H0cNaLiaCywlI9ZQ9WqCQCxCWNv7xBH34iDbAG1QW/ZOo8Lb7mq/H6TxhzzoApAwhYquEKxVY8rPNzoVSlye8cRu0uXaXho/wEwWNsa2x5hSOHVNfFov0Fvd6n37Zp/h6h2LcUgPqqboxPSxA1oyIC4nzUCJbLVPupcN0KuK3FMju0+V5QiIZi+dTqUZe5NRPDz2HB/A0RASs4U0syuqNcB5jd0H1rDmG9t0oHKXFFKLmayMBjREVlfRCGQM1DFeIJtOrvM/vHPYy5UgqRBf6GiKYPS4ag3GvFS/vCA==",
+                "value": "TMTwANvB2V6Y4FlLB40j5Q=="
+            },
+            "connectionTimeout": {
+                "value": 60000
+            },
+            "emailId": {
+                "value": "snaplogicg@gmail.com"
+            },
+            "mailProperties": {
+                "value": []
+            },
+            "password": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "0G5Uu52HklIsqTiNMCet0Q==",
+                "sym_key": "B6R5nJB+mYeSVcCZSu/IOuKCsB4XBpPQenPUFnzLCKOGGLOVlu9Q/0vzDFzzFV8tfO1DjwScu9xOjZzKDT+VlKMrI7DltyQ/WlvjQUnsR3jAYcYSv0qNJ/fUyW9fIztCk6IkKEt8HN6uZLzlmRFyZuE/Irr6AmulP2ExUCv8Qce0igwQesHXMDFyfebKVRVWz3wHQSC8FhlqPFbV/FfTHpVaSi+CaKdQFcXz+PmbA6vfU46kXSPiOOXyYecJcTheZJ7seCViwJIv4yvEj7K0uLU5vfN+XMPo8pFU0KJ1b9gqnf9I3egnsocmD78yIOMg6F+AU3eudrTo5yVRbuJVgw==",
+                "value": "vnjK9adN+J3VG4LaTyaUUA=="
+            },
+            "port": {
+                "value": "993"
+            },
+            "readTimeout": {
+                "value": 60000
+            },
+            "secureConnection": {
+                "value": "SSL"
+            },
+            "serverDomain": {
+                "value": "imap.gmail.com"
+            },
+            "writeTimeout": {
+                "value": 60000
+            }
+        },
+        "view_serial": 100
+    }
+}

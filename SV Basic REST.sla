@@ -1,0 +1,27 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "SV Basic REST"
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "CQHYdV/7A43GQhBDvUE9sQ==",
+                "sym_key": "ThnKjC87zs4mgul2by5zF7YcElxCXZC2zXllQw3maUdFDEfCG35tj0ScYOZ3IMmjdF4WuvaT5bXRf5i6oBWtWBkRGDmjOklVdBk2sTJ7qOa1Jbc2rYmjanvnos+RpRLDpQRr86erKgOv+XJ6JFcPlXsCNuB/GmPgb+/+gwyFIyO6KSPAs37FngjMZ9CYHdUTJi0BmPrAkueEOvCqOpIBmDp/nQnCAMpIxsY6CMRIOeOM2vv6RcKueEMsY/sbt+pXgjhGb3Q1Z1i05krPzf9BW/So1nFwVstMT3epRdRPCRMhwuNmyZdZK6+EX9qsvXEuUekKLeJsVne1NoMBWbY7Lw==",
+                "value": "E+it+dmRq2VobybbG1roxw=="
+            },
+            "username": {
+                "value": "svaranasi@snaplogic.com"
+            }
+        },
+        "view_serial": 100
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "class_id": "com-snaplogic-snaps-anaplan-anaplanaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Anaplan Diagnostics - snap-team@snaplogic.com"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "Hostname": {
+                "value": "https://api.anaplan.com"
+            },
+            "certificate": {
+                "expression": false,
+                "value": null
+            },
+            "certificateDer": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "pT8b42aJx0oMmLKHAgc6Bw==",
+                "sym_key": "YVZI91V9VgWR6aKVc3Vd4AHHM1o2wDiCpTSTBHXj9IfmexvQVCkwWW7I1yGmKVIPyRuhH+vT8a6/3u4+W/oPjZXjXTMBT/G7GkQg0LBdpx/YgO2a2ep69sZjHp5e7fsbbqiOITNCg1s2uq5jOR21irVFos2IEdvannnbIue8M4r5kdSu6mtgrCvYgYGvkuOz+rhwwt4mKQfJpcNENzsHSqoW3EVxfMcYnzXdUFIcLbmUdivVS2ULhL347nlpWnJCHY6z/ht0bdH8kmvwM6xRGc9d9yysktWo19KW/cNtT444rp9KhEkci5wWNjTjorOOwX22WQkLsEw0rwyl/bGHgA==",
+                "value": "NR+Q72NBhzRJDSh6mGCA0w=="
+            },
+            "certificateFile": {
+                "expression": false,
+                "value": "certificate-287727120981369463216569009004977317644.cer"
+            },
+            "externalCertificateContents": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "2HBICvrWK2xBQ568FnIvBA==",
+                "sym_key": "DCCZmctGpb2xUUNJL6GGW1nsl36F+tlpTZeM7yuHCJTBfTlnI3Ah5O0Q1BhBJi+uODkvyK8U0HRDNC386SXyukZDKnCLEKVdZhJv3aqrV/ckQTWUreg1TpsnJWOnRBN/W6uCQ+e1Ny1rQf70d8BKV76V5n1kLPTw1XR79Fxe5zGPtuHk3kFwZ8L29QnaKwD1bm20sO2BdumYAfr89k+lqmUZX6bOMYb4wRzreQQtMajuGVf/2ig01XyUQwMYJSPutHFF67148QqFtSmPNz5iO+oYXSnEpxypdKUroQI919ayQq30YMCSzrnL3FwG06IKx1pB+BJDsWQOGwFSQC7U0A==",
+                "value": "O1DYSxZS+DAVCYNfGdgpaA=="
+            },
+            "externalCertificateFile": {
+                "expression": false,
+                "value": "snap-team.cer"
+            },
+            "externalPrivateKey": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "G9w67DmFm6lF+DeJWAxY6A==",
+                "sym_key": "fIONsiumc6IgnLdP63l9u/HDn75D8GM1SuV3c6e7KSsM58NJXgQQZSz2pVjdvUG+6+J4VrGngMQDC+Aym44JpVz517s35zAKXN2mhGRl2CzhRQJpzur+ISaQpElQCCjJHVuEPu0vKw3USPAqflK+MXoyUoeN9LnMK8pV23GwYczcFO4LRK7D1tX5K01DHlB+YXeoF5CNlpK/F5f/f9yA5irgOmL95mm2bHpV2HW0NFxzxwv0ahEzz1nLIE2nRzxF95kBcaVrMH8yyqjwmLjtij2VeqaLniFU1HvO6fj6DqAcyajoX02yUmMuYhXa8NAnfvfS468qyMl3ib2r5rGCOQ==",
+                "value": "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"
+            },
+            "password": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "DZmUFRnqqwud7qqVel4mlw==",
+                "sym_key": "lvt1fVCyFQW43DCvaa2XlSqfH+FEUK1xJ3GvXLuCDEfO0ogFZcfRkmzHSSuwPbqXy71mPGphMNf/zkMmBC5Xz144tU4w2abselROXyZXN+/RbqTjBkbebSPyF8DpWoLaPFBA6ZwwWMJTtHyUw56lqDaYn3QfsFs/QyiytgEZSP8ziGcutjFLYKPG+Vy/YvU2diiOGcWAKi7DBqW/3b0WNCLqZp1bLm7w/nMSDVk1kHnOCOa+9l5G6sJjtfxpmBxZC2UNH5e3B2s+EVNHtX60uHhIBYVMFEnr9THMcaYut75OQ/Q/wUbXlJm8Vtb6eD5S77arz8Dh8rZwBLQKjEMg+Q==",
+                "value": "4BAHjP82qJdHyhq833B/fA=="
+            },
+            "username": {
+                "value": "snap-team@snaplogic.com"
+            }
+        },
+        "view_serial": 100
+    }
+}

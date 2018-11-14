@@ -1,0 +1,65 @@
+{
+    "class_id": "com-snaplogic-snaps-adobecloudplatform-adobecloudplatformjwtaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "AdobeCloudPlatform-DiagnosticAccount"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "clientID": {
+                "expression": false,
+                "value": "790f3519554d475e847f6b668563a6bf"
+            },
+            "clientSecret": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "ckoNULf0rf6dZ8W+PPQN8A==",
+                "sym_key": "o8j88uMzq3YUfgTz+DO91M0DpLJHEZMpQ44c8ibjpsKeqPiYHO8FM6nIjsq6V/SE+fme3dedE6lUBsvmQEZo1u94/AQSrLiTQhzf+gj0f4Q8rdMDDgU/sO+yyuxPfakRBa2laDz8ML3oXilGMtkjoRKWoOAuEPD5uIjsuvI6oepyJTjJ3k3FQY87UN4HVs3VsZMjUz0dWGXyaXMtS4xT174mkGjjIYnzXQAmtnw8f+fPVRWSTCbigkPIuU8nfc29XEIw4nI4qluB19Qgc77qwZoJRhGNJK8TdXsbxZgrg1SqtGWA+8D7Xm0IxGKlwh8fuPh03zvpxADWPt1Y+CZEjQ==",
+                "value": "4+PSBHix3KtuJeOeRJNb5L402WRePmA4tMSWi70SClB4Etd8orQOwo7zWN6I6GRV"
+            },
+            "keyStorePassphrase": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "qukZa97PsZ/RY3iy9kX+IA==",
+                "sym_key": "X4zM11E8Vq1I2ZAYlxANM52h974FOSfNQVKMaVyCjkw1wf/5oYjeXrzNGfY6P1/B4cQEIf4KXR+LM2z2YlLmkyoyZLh29as+n52NKhondBgl+ArFVvZWvF2ah/Z/UukcvD8OkAxUjuhm8pEvVQ+Lk9Z4cU9WduZqnZ16t0OmE2ytY91a85Hbf82moNdEZUb5VwYrN+ftJxPMEAb539y/9HcsmUFvgnTmfVMkRhR2VU+PwhvtbZhrXMw5PiD5pAngC0TDRE+xUONy58MxKqsU12aaS8uLocsDxGCLPT2pj09TE54RKvoOAIr9Lh4Bul8FzRkY0rv5tgeomiUwGR0sAQ==",
+                "value": "qoUxLevOZajdSZO5o0GRfw=="
+            },
+            "keyStorePath": {
+                "expression": false,
+                "value": "axcks1"
+            },
+            "organizationID": {
+                "expression": false,
+                "value": "08963E135A4D49C00A495C17@AdobeOrg"
+            },
+            "privateKeyAlias": {
+                "expression": false,
+                "value": "1"
+            },
+            "privateKeyPassphrase": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "2EC5lZR+lVazCTt7AdMxqA==",
+                "sym_key": "vPdFliy9Kj8YDhzGbPX0DInYxXZ2Xfp9OdpsB7PYtw4m11h4IuOCgPssEYx7Hs9t1QqqTPM2MHZx2R+qn5sW/v/yUBH8Z0Il54Q1FuntYmHpXZC/2lrzFnWiD8yLdLk0Dr8ZVIH+q3+yklgsVioD1vgIDcMm6b2zjSSWiKiwK3r9eDWlnUoy8YzffAKajAkeUru4JOUfXDuINwMiY1LYDu5czz0a2MxSttifJln4I8iyjzK2tB4kN+c2qHX1Xqd4jGmAJNWLAdfg0zbOwce1sFQBVAzjemGn2Q196hNP0iSeWNFTk1qUpjOO1GcbQT+yVXfQEfayznWeDT8F37T1rg==",
+                "value": "qQOCQeKgcGykI1vN56DjfA=="
+            },
+            "technicalAccountID": {
+                "expression": false,
+                "value": "7C363E9A5A78306B0A495CC6@techacct.adobe.com"
+            },
+            "tokenExpiryTime": {
+                "expression": false,
+                "value": 10000
+            }
+        },
+        "view_serial": 100
+    }
+}

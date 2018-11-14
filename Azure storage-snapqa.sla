@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-binary-binaryazureaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Azure storage-snapqa"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "accountName": {
+                "value": "snapqa"
+            },
+            "primaryAccessKey": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "5/TZi2wwcqwIw3vK4t7l5Q==",
+                "sym_key": "cRFomhmxMtGR7My1rOWZmftUG+61RYCnz2Em7aFy7OZTGloaHsY5UTy8qKnasL0QU0FXdkfdA5BJRbD1QoC/A6yMVcY8xYnIUs5BrP2aJWsdy5Kad0+ufElyz4QK2HqxYJx1VuJn8pnT8Y3mMy3ZXs1hEwgG1+VgeUNHSccycWFt7KEDw0Y9apIEGQRluKC6OvBwPTdc/fqosBqublCQVPIszXtvGDlqi9tzUDPv81lrwH27n8nqf1O4nwXZGuB79dSuCj2eQfBAzfyYnqz6qo5v4r5oStQgkTX1FuKaX6mX87Wex6Jqi7OrbBJdvfr04iJnErpTVNLCuE/A05Oyfg==",
+                "value": "yLgI3wpUDRiZs2mxSg8VC7HyzTzuIklxRxsJxaNvtys6FiuTg8l/QqUjG/pCzzL62gb0SuCvAFqEti6qwag/G1QrgPyl8pxkn9Tv5JtFDTbW6D4Q+EQ7kVK/L5Z3jFXO"
+            }
+        },
+        "view_serial": 100
+    }
+}

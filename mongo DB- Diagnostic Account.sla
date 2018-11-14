@@ -1,0 +1,65 @@
+{
+    "class_id": "com-snaplogic-snaps-mongo-mongoaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "mongo DB- Diagnostic Account"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "authentication Type": {
+                "value": "Default"
+            },
+            "databaseName": {
+                "value": "qatest"
+            },
+            "encryptType": {
+                "value": "None"
+            },
+            "hostname": {
+                "value": "snapqamongo.clouddev.snaplogic.com"
+            },
+            "password": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "nEL39dzLKCaPlJaGoZ897A==",
+                "sym_key": "uroJGDME8QMFbGrp+ZpK+qj4UvCottVSFnN/PHEv8vP46MogBdrc7BwOpuuktPKCsuaPV/qyHLoab2NstP4q2T8OrwDymKZF5C+YDYv1EUGPV2ELoRrULSlTvHn82GCcCJHVCVfMal9cFp2dh/xl3tMb6YVm4Rcw360qt34AoQLGKsF7jBDfsJXkOdQdjOeqQKWKvecd8enpZOYLCU9igjhleliVHZq7iObp8ENec8lIPqYKp9NP++latM6aG37eK643atEUxZlmkH/YwepiGZOOtDYGlGg+/gRtkq1A8+v7LqnCFWDiECmzAscEME2P4lumNsK7IFfP4q2w5mFqlg==",
+                "value": "5uAhIhgleQPrSRnISeoyVw=="
+            },
+            "port": {
+                "value": 27017
+            },
+            "ssl properties": {
+                "value": {
+                    "Keystore filepath": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "Keystore pass": {
+                        "fp": "7960e11ae630b134b12f8f257e30048b3c90a5afe38e9fd125a412e0d3df6d47",
+                        "value": ""
+                    },
+                    "Truststore filepath": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "Truststore pass": {
+                        "fp": "7960e11ae630b134b12f8f257e30048b3c90a5afe38e9fd125a412e0d3df6d47",
+                        "value": ""
+                    }
+                }
+            },
+            "username": {
+                "value": "snapuser"
+            }
+        },
+        "view_serial": 100
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "class_id": "com-snaplogic-snap-api-sql-accounts-redshiftdatabaseaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "redshift with batch size 2"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "JdbcDriversProp": {
+                "value": []
+            },
+            "advancedProperties": {
+                "value": {
+                    "acquireIncrement": {
+                        "value": 1
+                    },
+                    "autoCommit": {
+                        "value": true
+                    },
+                    "batchSize": {
+                        "value": 1
+                    },
+                    "checkoutTimeout": {
+                        "value": 10000
+                    },
+                    "fetchSize": {
+                        "value": 100
+                    },
+                    "idleConnectionTestPeriod": {
+                        "value": 15
+                    },
+                    "maxIdleTime": {
+                        "value": 50
+                    },
+                    "maxPoolSize": {
+                        "value": 50
+                    },
+                    "minPoolSize": {
+                        "value": 3
+                    },
+                    "retryAttempts": {
+                        "value": 0
+                    },
+                    "urlProperties": {
+                        "value": []
+                    }
+                }
+            },
+            "connectionProperties": {
+                "value": {
+                    "accessKeyId": {
+                        "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                        "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                        "sym_iv": "mBmMYNjukIIumH700UU2WQ==",
+                        "sym_key": "Lq81s4g3sSGSzbFQQBrTlttbwda5QcMT+3EphK20o5BiwatGq0tSWYsBBLdCH6QvKD/t+sE6cDN1SrQGNdgW6TwsY7eJ6o/bKhMZZo3jAzUBbPeWIljuyBWG9zZrRf6qI3+E/7I+l5si89sTuNeLBz/uqVFJTIeqdJzvmASBjzs33cI88CX1uJxulA5GD7RyBiApaHXZ8okw9V7j9pQdJZdQv01sC6a233ZGe8FKjfZRA5HgyV4pwhH3+P7SvL9OUJgCLrQzPxeyQXzxY6O6W5p7MB68WdSxAWKSWEgnQ6O8oadiqNSR3garYm+cYThz+7NlWbUZgcoMuXkF2Q96xA==",
+                        "value": "aHAjSdmqEhbf3ax1PyMZBIiKwDL2AZm68B3WhhtRZys="
+                    },
+                    "bucket": {
+                        "value": "patan"
+                    },
+                    "databaseName": {
+                        "value": "sedemos"
+                    },
+                    "hostname": {
+                        "value": "fieldcluster.cvmlvu1njam4.us-east-1.redshift.amazonaws.com"
+                    },
+                    "password": {
+                        "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                        "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                        "sym_iv": "OMxUb5HYYgZ1h78jBYMdiA==",
+                        "sym_key": "gm2czpDt8+GUrF8BzFzBB3dWLvlpbuWQzi7XFKoAJDdqSM0oMfh+j5QOuyGhAHYPJEa3Pwz3dfvtogT5gww/XTE509LcmJHYlZ1xzvVaJB/33bHSpYuH6ddpemlgctV+MW23aJ8b/FYXJJxmoq8BfOkOQ5lqAexOXNgwdLkyuwTOzfLcCmGPm+K5We6xvD60kT+1O7l0j4kOYH0mAZvkHKDpJwqhM50woqIWJj88mS83CKzBC4MxckJg5zZNHUmMez3kDbYR0svW16kQ3FXOnkMuR7FxI1lF4egUgv17Wz+JohXlDolZVHEMuEmAIhxr9/Ijz51BstDnU/HfJxhKXQ==",
+                        "value": "jA3k36JQNrmhREskpjk1Mg=="
+                    },
+                    "portNumber": {
+                        "value": 5439
+                    },
+                    "s3Folder": {
+                        "value": "teja"
+                    },
+                    "secretKey": {
+                        "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                        "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                        "sym_iv": "/xFgTIKHKN7UuQDGt7H5eg==",
+                        "sym_key": "vpDd9UM6b+lMxUcX318erQo9S3XVRvSZ8N8W0iAbyztthNWCak9rTLMbOAtZ3ONIAKZOMKOdPsn2MxPOPoHajBiSF1OwZ3421QZmRVpl2tpbKCs9LHHb6bHeJjMVfTU/Ts/bxqvZttS59Mar7tUZdTRJzV5mElC9BOLAuYdCLCm1OsLfTMCzuDSra88koZu6uBHEMQE9vXA0TchNnKIn86K5qPnDNtRYOLDo0IFjexaPznZnz9XOVWBWA+GOtneMiCa+GTAa5+eqVAB3cGLf+DFzXk7b9Sck/I+Cx24pHyJXod0p/P3P1M/ICH09qnlNIUmvQJgjr5mEIaFyoduSbg==",
+                        "value": "xGoFU9YfgkHXnzRYuKfHxDf2G3Yn87YawJFXejxppIJ+QoUmH1EkzKQ/m9gVQbIq"
+                    },
+                    "username": {
+                        "value": "admin"
+                    }
+                }
+            },
+            "iamProperties": {
+                "value": {
+                    "awsAccountID": {
+                        "value": null
+                    },
+                    "iamRoleName": {
+                        "value": null
+                    },
+                    "regionName": {
+                        "value": null
+                    }
+                }
+            },
+            "jdbcDriverClass": {
+                "value": "org.postgresql.Driver"
+            },
+            "jdbcUrl": {
+                "value": null
+            }
+        },
+        "view_serial": 100
+    }
+}

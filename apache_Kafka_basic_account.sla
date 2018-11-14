@@ -1,0 +1,23 @@
+{
+    "class_id": "com-snaplogic-snaps-kafka-kafkaaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "apache_Kafka_basic_account"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "bootstrapServers": {
+                "value": "confluentkafka.clouddev.snaplogic.com:9092"
+            }
+        },
+        "view_serial": 100
+    }
+}

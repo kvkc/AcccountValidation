@@ -1,0 +1,37 @@
+{
+    "class_id": "com-snaplogic-snaps-zuora-zuorasoapaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Zuora diagnostic account"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "x1gveRa6A0t4s4BZ7VOmCg==",
+                "sym_key": "uITF8cNIHrEU8pbIRAB45IyUz1PrJTmEBbrV8tjdUY9bVLpp5QfYdhgHXHHloiKBLT1k2K8otvB8ChnM31+93SOBeaRYLxGLJ/tIFt/WnqzNXx1Sjdh713AoKMN8E4mA368rzu0JeorN6m9soT7dx/x3MGe42Zrg6xq5DK2kGqTQ+23TRjUcTjgntATVWIO0mnvyeAosG8dAzqtrl87kZezbZ61Bdy3OytPc4yPyaQci/OD82FvflT1n47Xa/PwbJT5S9OmcOdKURjzw2Sn14QVnVn5bYuB1nx9QFuz3p1ThXB0fpJfDAoZJKzPidtoJj2w60NKhyYI+gx7JE12h1A==",
+                "value": "GKt6rQVCZjJ1U+we5mmJTg=="
+            },
+            "production": {
+                "value": false
+            },
+            "username": {
+                "value": "kbandi@snaplogic.com"
+            },
+            "wsdlUrl": {
+                "expression": false,
+                "value": "zuora.a.52.0.wsdl"
+            }
+        },
+        "view_serial": 100
+    }
+}

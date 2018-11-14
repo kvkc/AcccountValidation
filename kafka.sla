@@ -1,0 +1,37 @@
+{
+    "class_id": "com-snaplogic-snaps-confluentkafka-confluentkafkaaccountnoauth",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "kafka"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "advancedKafkaPropertiesList": {
+                "value": []
+            },
+            "bootstrapServerList": {
+                "value": [
+                    {
+                        "bootstrapServer": {
+                            "expression": false,
+                            "value": "ec2-54-234-24-58.compute-1.amazonaws.com:9092"
+                        }
+                    }
+                ]
+            },
+            "schemaRegistryUrl": {
+                "expression": false,
+                "value": "http://ec2-54-234-24-58.compute-1.amazonaws.com:8081"
+            }
+        },
+        "view_serial": 100
+    }
+}

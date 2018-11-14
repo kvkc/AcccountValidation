@@ -1,0 +1,39 @@
+{
+    "class_id": "com-snaplogic-snaps-workday-workdaysoapaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "QA"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Workday_Diagnostics"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "host": {
+                "value": "wd2-impl-services1.workday.com"
+            },
+            "password": {
+                "fp": "0ec801e29591ccdf70c7b2870b83862a021c2070269d3851456843f5aa437d8a",
+                "key": "account-cloud-managed-55099e5bba6d562af1c29fb4-2015-05-02T16:10:00-918345",
+                "sym_iv": "8hqH2l/mF76bm0xfKF9yuA==",
+                "sym_key": "uYPzrkShNxiLPpPFDSygLW5U3e6BBPiLqY5gIx/Eb390sXAhJtytqobhLQKwZatVXzvl+fdtEzSGlQLSTzoZ0k9DO7Z5LpbvtCUYboyOM4iQdGzf/rOx5GiqafpVzDBmg5rgrMvmoYIx9NSZ9lrSAY52eTw6LD6esihymtPQdghEqtrEJ8nXXmqQtZnwacoZe4rm/dm06loLOyFD7JGSBSB85vRPuDNGMFf9BbFmfRC0qpQgPq5rQuwfOo2ca9bSF0VYdA+0n2B8UMPy6c6M5fXXf6peFIYhYSIKUqq5HKqhBixJtN7Rgpwfn8SCcVD2ryrLCD0ImLsEN+sgHG+Btw==",
+                "value": "F/Uk+D1Quti66uSC1awIXw=="
+            },
+            "tenant": {
+                "value": "snaplogic_pt1"
+            },
+            "username": {
+                "value": "rpramanik"
+            },
+            "version": {
+                "value": "29.2"
+            }
+        },
+        "view_serial": 100
+    }
+}
